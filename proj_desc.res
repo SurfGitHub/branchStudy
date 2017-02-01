@@ -1,4 +1,4 @@
-"fn","developer_count","commit_count","issue_count","owner_type","project_size","fork_count","subscriber_count","project_age","branch_count","PR_count","PRComment_count","issueComment_count"
+"fn","developer_count","commit_count","issue_count","owner_type","project_size","fork_count","watcher_count","project_age","branch_count","PR_count","PRComment_count","issueComment_count"
 "3b/cl-opengl",14,270,38,"User",2016,36,23,6.99178082191781,4,20,47,43
 "3rd-Eden/memcached",43,398,180,"User",684,186,52,6.17534246575342,2,108,255,400
 "3rd-Eden/useragent",10,186,65,"User",614,44,14,6.37260273972603,1,23,37,143
